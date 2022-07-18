@@ -2,3 +2,6 @@ mexirica
 goiaba
 catarina
 uva
+carambola
+melancia
+jaboticaba
